@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+/*font-family: 'Protest Guerrilla', sans-serif;*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: #323334;
+}
